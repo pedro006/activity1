@@ -3,7 +3,6 @@
     'use strict';
 
     // breakpoint where swiper will be destroyed
-    // and switches to a dual-column layout
     const breakpoint = window.matchMedia('(min-width:1024px)');
 
     // keep track of swiper instances to destroy later
