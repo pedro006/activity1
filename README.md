@@ -1,5 +1,5 @@
 Jekyll is required to run localy
 
-Command to use:
-bundle install
+Command to use:<br>
+bundle install<br>
 bundle exec jekyll serve
